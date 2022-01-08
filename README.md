@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ![](banner.png)
-#### - I am 3rd year undergraduate student at Nationl institute of Technology, Srinagar 
+#### - I am 3rd year undergraduate student at National Institute of Technology, Srinagar ,J&K, India
 #### - I am passionate about CyberSec and learing new cloud technologies
 <hr>
 
