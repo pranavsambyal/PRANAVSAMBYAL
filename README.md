@@ -67,6 +67,7 @@
 - [ ] Learning DeepLearning using Keras on top of Tensorflow.
 - [ ] Learning ARCore to Develop AR app for Android.  
 
+<hr>
 
 # Some Stats for the Geeks
 
