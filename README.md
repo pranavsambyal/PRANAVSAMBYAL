@@ -73,4 +73,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsambyal)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavsambyal&show_icons=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
